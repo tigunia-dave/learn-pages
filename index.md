@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-![funny meme](md_meme.png)
+<img src="md_meme.png")
