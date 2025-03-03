@@ -5,4 +5,4 @@ layout: home
 
 # Welcome!
 
-![](/images/md_meme.jpg)
+![](./images/md_meme.jpg)
