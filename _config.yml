@@ -11,6 +11,10 @@ defaults:
       layout: "default"
 
 color_scheme: dark
+callouts:
+  warning:
+    title: Warning
+    color: red
 
 url: https://just-the-docs.github.io
 
