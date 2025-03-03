@@ -12,6 +12,7 @@ defaults:
 
 color_scheme: dark
 
+callouts_level: quiet
 callouts:
   warning:
     title: Warning
