@@ -7,8 +7,9 @@ title: Configure Entra ID for SQL Server 2022 and up
 *   Follow the [Microsoft documentation]
 
 # Process
+
 {: .warning }
-> Even though Microsoft states the chosen admin user will be granted the sysadmin role in SQL, the behavior appears to be inconsistent
+Even though Microsoft states the chosen admin user will be granted the sysadmin role in SQL, the behavior appears to be inconsistent
 
 1.  Create two Entra security groups using the following naming convention:
   *   TIG-Foortified-Cloud-SQL-Admins
