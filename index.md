@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-<img src="/md_meme.png"/>
+<img src="images/md_meme.png"/>
