@@ -3,6 +3,15 @@ title: Home
 layout: home
 ---
 
+# Set up Entra ID Auth for SQL Server 2022 and up
+
+## Prerequisites
+Follow the [Microsoft documentation].
+
+## Process
+> [!Warning]
+> The Microsoft documentation says that the initial user chosen will be made a SQL admin
+1.  
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
@@ -26,6 +35,8 @@ If you want to maintain your docs in the `docs` directory of an existing project
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
+[Microsoft documentation]: https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/azure-ad-authentication-sql-server-setup-tutorial?view=sql-server-ver16
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
